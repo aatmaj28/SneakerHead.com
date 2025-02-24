@@ -9,8 +9,10 @@
 SneakerHead.com is a comprehensive platform for sneaker enthusiasts, offering professional cleaning, curated shopping, and custom design services - all in one place.
 
 <p align="center">
-  <img src="Images/SS-1.png" alt="Project Diagram" width="45%" />
-  <img src="Images/SS-2.png" alt="Project Diagram" width="45%" />
+  <img src="62.jpg" alt="Project Diagram" width="30%" />
+  <img src="63.jpg" alt="Project Diagram" width="30%" />
+  <img src="64.jpg" alt="Project Diagram" width="30%" />
+  <img src="65.jpg" alt="Project Diagram" width="30%" />
 </p>
 
 ## ✨ Features
