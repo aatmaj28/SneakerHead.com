@@ -1,7 +1,7 @@
 # 👟 SneakerHead.com 👟
 
 <div align="centre">
-  <img src="Images/SH-1.png" alt="Home Page" width="70%" />
+  <img src="Images/SH-1.png" alt="Home Page" width="75%" />
 </div>
 
 ## 🔥 Your Ultimate Destination for Premium Sneaker Services
@@ -27,11 +27,11 @@ Transform your sneakers with custom designs from industry-leading artists.
 ## 📸 Screenshots
 
 <div align="centre">
-  <img src="Images/SH-2.png" alt="Home Page" width="70%" />
+  <img src="Images/SH-2.png" alt="Home Page" width="60%" />
 </div>
 
 <div align="centre">
-  <img src="Images/SH-3.png" alt="Home Page" width="70%" />
+  <img src="Images/SH-3.png" alt="Home Page" width="60%" />
 </div>
 
 ## 🛠️ Technology Stack
